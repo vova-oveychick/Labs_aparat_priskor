@@ -1,0 +1,20 @@
+Fitter Status : Successful - Wed Nov 30 08:20:22 2022
+Quartus Prime Version : 20.1.1 Build 720 11/11/2020 SJ Lite Edition
+Revision Name : comp_fixpoint
+Top-level Entity Name : comp_fixpoint
+Family : Cyclone V
+Device : 5CSEMA5F31C6
+Timing Models : Final
+Logic utilization (in ALMs) : 3,497 / 32,070 ( 11 % )
+Total registers : 4982
+Total pins : 119 / 457 ( 26 % )
+Total virtual pins : 0
+Total block memory bits : 813 / 4,065,280 ( < 1 % )
+Total RAM Blocks : 15 / 397 ( 4 % )
+Total DSP Blocks : 6 / 87 ( 7 % )
+Total HSSI RX PCSs : 0
+Total HSSI PMA RX Deserializers : 0
+Total HSSI TX PCSs : 0
+Total HSSI PMA TX Serializers : 0
+Total PLLs : 0 / 6 ( 0 % )
+Total DLLs : 0 / 4 ( 0 % )

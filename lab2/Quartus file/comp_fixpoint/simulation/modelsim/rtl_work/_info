@@ -1,0 +1,108 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/Quartus progects/comp_fixpoint/simulation/modelsim
+vatan2_cordic_nw
+Z1 !s110 1669789466
+!i10b 1
+!s100 N8anQY@6?CbA3;GnWEYY63
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IA=1^baO5HF=CnPQJ;^h;G1
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+R0
+Z4 w1669788228
+8D:/Quartus progects/comp_fixpoint/atan2_cordic_nw.v
+FD:/Quartus progects/comp_fixpoint/atan2_cordic_nw.v
+!i122 2
+L0 21 2945
+Z5 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z6 !s108 1669789466.000000
+!s107 D:/Quartus progects/comp_fixpoint/atan2_cordic_nw.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/Quartus progects/comp_fixpoint|D:/Quartus progects/comp_fixpoint/atan2_cordic_nw.v|
+!i113 1
+Z7 o-vlog01compat -work work
+Z8 !s92 -vlog01compat -work work {+incdir+D:/Quartus progects/comp_fixpoint}
+Z9 tCvgOpt 0
+vcomp_fixpoint
+R1
+!i10b 1
+!s100 ?TU<L?g_GSjkCXAGzLa]l0
+R2
+IDd^1041dRK^Le9:a4mGR13
+R3
+R0
+w1669789023
+8D:/Quartus progects/comp_fixpoint/comp_fixpoint.v
+FD:/Quartus progects/comp_fixpoint/comp_fixpoint.v
+!i122 0
+L0 42 249
+R5
+r1
+!s85 0
+31
+R6
+!s107 D:/Quartus progects/comp_fixpoint/comp_fixpoint.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/Quartus progects/comp_fixpoint|D:/Quartus progects/comp_fixpoint/comp_fixpoint.v|
+!i113 1
+R7
+R8
+R9
+vcomp_fixpoint_tb
+R1
+!i10b 1
+!s100 YA7?T0`X7>dM2`29HEPh?2
+R2
+IhoE[:Ikn8XB8lZbFkd0Nb3
+R3
+R0
+w1669788339
+8D:/Quartus progects/comp_fixpoint/comp_fixpoint_tb.v
+FD:/Quartus progects/comp_fixpoint/comp_fixpoint_tb.v
+!i122 3
+L0 42 458
+R5
+r1
+!s85 0
+31
+R6
+!s107 D:/Quartus progects/comp_fixpoint/comp_fixpoint_tb.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/Quartus progects/comp_fixpoint|D:/Quartus progects/comp_fixpoint/comp_fixpoint_tb.v|
+!i113 1
+R7
+R8
+R9
+vSqrt
+R1
+!i10b 1
+!s100 E;To;PXERl?KhihaEg9Jd1
+R2
+ISVOQn6REH364`kQaf5cfD0
+R3
+R0
+R4
+8D:/Quartus progects/comp_fixpoint/sqrt.v
+FD:/Quartus progects/comp_fixpoint/sqrt.v
+!i122 1
+L0 21 3196
+R5
+r1
+!s85 0
+31
+R6
+!s107 D:/Quartus progects/comp_fixpoint/sqrt.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/Quartus progects/comp_fixpoint|D:/Quartus progects/comp_fixpoint/sqrt.v|
+!i113 1
+R7
+R8
+R9
+n@sqrt
