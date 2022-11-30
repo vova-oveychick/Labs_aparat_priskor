@@ -1,0 +1,3 @@
+lab2_fixp/comp_fixpoint/atan2_cordic_nw --> atan2_cordic_nw
+lab2_fixp/comp_fixpoint/Sqrt --> Sqrt
+lab2_fixp/comp_fixpoint --> comp_fixpoint

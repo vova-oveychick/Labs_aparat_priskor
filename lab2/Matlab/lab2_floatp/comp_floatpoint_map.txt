@@ -1,0 +1,5 @@
+lab2_floatp/comp_floatpoint/nfp_add_single --> nfp_add_single
+lab2_floatp/comp_floatpoint/nfp_atan2_single --> nfp_atan2_single
+lab2_floatp/comp_floatpoint/nfp_mul_single --> nfp_mul_single
+lab2_floatp/comp_floatpoint/nfp_sqrt_single --> nfp_sqrt_single
+lab2_floatp/comp_floatpoint --> comp_floatpoint
